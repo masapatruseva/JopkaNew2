@@ -6,5 +6,6 @@ public class Pidorok {
         System.out.println("Hello Pidr!");
         System.out.println("Bye Pidr!!!!");
         System.out.println("luv u :33");
+        System.out.println("i'm lying;)");
     }
 }
