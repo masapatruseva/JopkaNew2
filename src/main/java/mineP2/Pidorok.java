@@ -5,7 +5,7 @@ public class Pidorok {
     public static void main(String[] args) {
         System.out.println("Hello Pidr! XYI");
         System.out.println("Bye Pidr!!!!");
-        System.out.println("жопа");
+        System.out.println("жопа 777");
         System.out.println("хуй;)");
         System.out.println("хуй;)");
     }
